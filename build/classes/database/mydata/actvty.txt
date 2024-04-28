@@ -1,0 +1,8 @@
+2022/04/17 1:52pm : ~~ You CLOSED the game.
+2022/04/17 1:52pm : ~~ You LAUNCH the game.
+2022/04/17 1:50pm : ~~ You CLOSED the game.
+2022/04/17 1:49pm : ~~ You LAUNCH the game.
+2021/08/25 8:48am : ~~ You CLOSED the game.
+2021/08/25 8:47am : [Speed Test] You RESET the Highest score.
+2021/08/25 8:47am : [Keyboard Challenge] You RESET the Highest score.
+2021/08/25 8:47am : ** You cleared Activity Log.

@@ -1,0 +1,35 @@
+Game Coded: February 2021
+Game Developed: February 21 2021
+
+Game Developers:
+*Developed By: Tyrone Limen Malocon :facebook@TyroneLeeEmz
+*Designed By: Razel Ann Armilla :facebook@RazelAnnArmilla
+
+Words Source:
+50% of words Typed by: Trea Limen Malocon
+
+Game Testers:
+*Jeemel Gayoso :facebook@JeemelGayoso
+*Jesus Anthoy Buenabiles :facebook@JezAnthoyBuenabiles
+*Dennis Octavio Jr. :facebook@DennisOctavioJr.
+*Kenneth Laudit :facebook@KhenLaudit
+*Ryan Patenio :facebook@RyanWong
+
+Other Tester:
+*Esmael Pefanio :facebook@PrinceEsmaelBangoyPefanio for EASY LEVEL
+
+Bugs encountered:
+(fixed)- CAPS LOCK : if CAPS LOCK is turned on, can't type a word. - now: can accept any letter(uppercase/lowercase).
+(fixed)- TIMER ERROR : when the timer reach zero and you luckily typed the last word to pass the level at the same time,
+         both Game Over and Level passed Dialog/Frame shows at the same time. you actually passed the level but the game is over.
+         now: TextBox/TextField is disabled when timer reach zero & Timer is Stopped when you passed the level.
+
+(improved) - KEYBOARD KEYS - we decided to Change letters from lowercase to uppercase letters in every words.
+                             as the keyboard keys displays all uppercase and capital letters,
+                             so it is easy for all the beginner users to find and specify letters from the word.
+                             similarities of lowercase letter L that is 'l' and uppercase letter i that is 'I' in some fonts.
+                            
+(Updated) - EXPERT level added -  we decided to add EXPERT level to the game, the longer you play the game, the more you enjoy playing.
+(Updated) - VETERAN and ELITE level added.
+
+Philippines
